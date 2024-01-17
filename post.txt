@@ -1,0 +1,5 @@
+﻿id, title, content, published_on, blog_id, user_id
+101, introduction to programming, learning the basics of coding, 2024-01-12 08:00:00, 201, 1
+102, data security tips, keeping your data safe online, 2024-01-12 09:00:00, 202, 2
+103, the art of storytelling, crafting compelling narratives, 2024-01-12 10:00:00, 203, 3
+

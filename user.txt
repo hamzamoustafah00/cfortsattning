@@ -1,0 +1,5 @@
+﻿id, username, password, post_id
+1, alice, password123, 101
+2, bob, securepass, 102
+3, charlie, secret123, 103
+
